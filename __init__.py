@@ -1,1 +1,0 @@
-from prak.g import *
